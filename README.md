@@ -1,5 +1,5 @@
-# game
-#rock paper scissor
+# game:rock paper scissor
+```python
 from random import randint
 player = input('rock,scissor,paper:')
 computer = randint(0, 2)
@@ -31,3 +31,4 @@ else:
       print('player lose')
   else:
     print('wrong invalid!')
+      ```python
